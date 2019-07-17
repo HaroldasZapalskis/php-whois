@@ -145,8 +145,8 @@ class TldModule extends Module
     public function loadDomainInfo($domain, TldServer $server = null)
     {
         $servers = $server ? [$server] : $this->matchServers($domain);
-        list (, $info) = $this->loadDomainData($domain, $servers);
-        return $info;
+        list ($additionalInfo, $info) = $this->loadDomainData($domain, $servers);
+        return $info ? $info : $additionalInfo;
     }
 
     /**
