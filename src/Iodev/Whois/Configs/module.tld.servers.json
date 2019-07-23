@@ -616,6 +616,7 @@
   {"zone": ".st", "host": "whois.nic.st"},
   {"zone": ".study", "host": "whois.nic.study"},
   {"zone": ".style", "host": "whois.donuts.co"},
+  {"zone": ".store", "host": "whois.nic.store"},
   {"zone": ".su", "host": "whois.ripn.net"},
   {"zone": ".su", "host": "whois.tcinet.ru"},
   {"zone": ".sochi.su", "host": "whois.nic.ru"},
