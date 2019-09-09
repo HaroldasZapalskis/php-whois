@@ -217,6 +217,7 @@
   {"zone": ".enterprises", "host": "whois.donuts.co"},
   {"zone": ".epson", "host": "whois.aridnrs.net.au"},
   {"zone": ".equipment", "host": "whois.donuts.co"},
+  {"zone": ".es", "host": "whois.nic.es"},
   {"zone": ".esq", "host": "domain-registry-whois.l.google.com"},
   {"zone": ".estate", "host": "whois.donuts.co"},
   {"zone": ".eu", "host": "whois.eu", "parserType": "indent"},
